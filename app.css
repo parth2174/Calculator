@@ -1,0 +1,42 @@
+
+.container{
+    text-align: center;
+    margin-top:23px;
+    
+}
+
+table{
+    margin: auto;
+    box-shadow: 10px 20px 10px gray;
+}
+
+input{
+    border-radius: 21px;
+    
+    font-size:34px;
+    height: 65px;
+    width: 456px;
+    box-shadow: 10px 20px 10px gray;
+    background-color: azure;
+}
+
+button{
+    border-radius: 20px;
+    font-size: 40px;
+    background: azure;
+    width: 102px;
+    height: 90px;
+    margin: 6px;
+    box-shadow: 10px 20px 10px gray;
+}
+
+.calculator{ 
+    
+    background-color: white;
+    padding: 23px;
+    border-radius: 53px;
+    display: inline-block;
+    
+}
+
+
